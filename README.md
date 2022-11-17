@@ -3,4 +3,5 @@ Raspberry Pis
 
 ## Setup
 
-连接电池
+1. 连接电池
+
