@@ -11,9 +11,15 @@ Raspberry Pis
 
 ## Result
 Round Trip Time ( 5000  times ) =  11.896782875061035  second
+
 Round Trip Time ( 5000  times ) =  13.502812385559082  second
+
 Round Trip Time ( 5000  times ) =  12.280096530914307  second
+
 Round Trip Time ( 10000  times ) =  28.968437671661377  second
+
 Round Trip Time ( 10000  times ) =  23.09668803215027  second
+
 Round Trip Time ( 10000  times ) =  24.112331867218018  second
+
 总速率为收发来回的平均，800kB左右
