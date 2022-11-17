@@ -23,3 +23,8 @@ Round Trip Time ( 10000  times ) =  23.09668803215027  second
 Round Trip Time ( 10000  times ) =  24.112331867218018  second
 
 总速率为收发来回的平均，800kB左右
+
+
+长连接、短连接以及心跳、超时
+
+https://realpython.com/python-sockets/
